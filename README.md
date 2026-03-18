@@ -20,11 +20,6 @@
 | [CVTE](https://www.cvte.com) | Senior Video Codec Engineer | Present |
 | [Huawei](https://www.huawei.com) | Senior Software Engineer | - |
 
-### 🎓 Education
-
-- **Huazhong University of Science and Technology** (华中科技大学)
-- Master's in Computer Science
-
 ---
 
 ### 🛠️ Tech Stack
