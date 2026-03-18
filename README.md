@@ -7,9 +7,7 @@
 
 ## 👋 Hi, I'm 刘宏波 (Liu Hongbo)
 
-**Senior Video Codec Engineer** | **12+ Years Experience**
-
-<img src="https://img.shields.io/badge/Hardware-GPU%20Acceleration-blue?style=for-the-badge" height="30"/>
+**Senior Software Engineer** | **Multimedia & AI Algorithms**
 
 ---
 
@@ -17,12 +15,24 @@
 
 | Company | Role | Period |
 |---------|------|--------|
-| [CVTE](https://www.cvte.com) | Senior Video Codec Engineer | Present |
+| [CVTE](https://www.cvte.com) | Senior Software Engineer | Present |
 | [Huawei](https://www.huawei.com) | Senior Software Engineer | - |
 
 ---
 
 ### 🛠️ Tech Stack
+
+**Core Expertise**
+- 🎬 **Video/Audio Codec**: H.264, H.265, AV1, AV2, FFmpeg, GPU Acceleration
+- 🖼️ **Image Processing**: OpenCV, Image Enhancement, Computer Vision
+- 📁 **File Systems**: Storage Systems, Distributed File Systems
+- 🌐 **Network Protocols**: P2P, WebRTC, libp2p, QUIC, TCP/UDP
+
+**AI Algorithms**
+- 📹 **Video Perception**: Object Detection, Tracking, Video Enhancement
+- ❤️ **rPPG**: Remote Photoplethysmography, Non-contact Heart Rate Measurement
+- 🎤 **Speech Recognition**: ASR, Voice Activity Detection
+- 🔊 **Speaker Diarization**: Speaker Embedding, Voiceprint Recognition
 
 **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -30,16 +40,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-**Video Codec**
-![H.264](https://img.shields.io/badge/H.264-FF6B35?style=flat)
-![H.265](https://img.shields.io/badge/H.265-FF6B35?style=flat)
-![AV1](https://img.shields.io/badge/AV1-FF6B35?style=flat)
-![AV2](https://img.shields.io/badge/AV2-FF6B35?style=flat)
-
-**GPU Acceleration**
+**Accelerations**
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![OpenCL](https://img.shields.io/badge/OpenCL-76B900?style=flat)
-![Vulkan](https://img.shields.io/badge/Vulkan-76B900?style=flat)
 ![SYCL](https://img.shields.io/badge/SYCL-764ABC?style=flat)
 
 ---
