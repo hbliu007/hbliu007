@@ -15,7 +15,7 @@
 
 | Company | Role | Period |
 |---------|------|--------|
-| [CVTE](https://www.cvte.com) | Senior Software Engineer | Present |
+| Tech Company | Senior Software Engineer | Present |
 | [Huawei](https://www.huawei.com) | Senior Software Engineer | - |
 
 ---
